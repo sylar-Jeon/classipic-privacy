@@ -1,0 +1,6 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* Cayman 헤더의 'View on GitHub' / 'Download' 버튼 숨김 */
+.page-header .btn { display: none; }
