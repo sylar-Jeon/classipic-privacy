@@ -13,7 +13,7 @@ ClassiPic ("the App") respects your privacy. This policy explains what informati
 |---|---|
 | App | ClassiPic |
 | Operator | sylar |
-| Contact | {{SUPPORT_EMAIL}} |
+| Contact | sylar32a+support@gmail.com |
 | Privacy Officer | sylar (same address) |
 
 ## 2. Core Principle: 100% On-device
@@ -23,6 +23,7 @@ The App analyzes your photos and metadata **entirely on your device**. Your phot
 ## 3. Information We Access
 
 ### 3.1 Device-only access (no external transmission)
+
 | Data | Purpose | Storage |
 |---|---|---|
 | Photo library (PHAsset) | AI classification, album display, duplicate detection | Local device only |
