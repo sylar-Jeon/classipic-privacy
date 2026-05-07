@@ -82,7 +82,7 @@ https://policies.google.com/privacy
 ## 9. 문의
 
 개인정보 처리에 관한 문의는 다음으로 연락하시기 바랍니다.
-- 이메일: {{SUPPORT_EMAIL}}
+- 이메일: sylar32a+support@gmail.com
 
 ---
 

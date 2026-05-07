@@ -80,7 +80,7 @@ We will post updates to this page when this policy changes. For material changes
 ## 9. Contact
 
 For privacy questions, please contact:
-- Email: {{SUPPORT_EMAIL}}
+- Email: sylar32a+support@gmail.com
 
 ---
 
