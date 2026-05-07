@@ -1,0 +1,7 @@
+title: ClassiPic Privacy Policy
+description: How ClassiPic handles your data
+theme: jekyll-theme-cayman
+markdown: kramdown
+
+# Markdown 파일을 깨끗한 URL로 — privacy-kr.html 로 접근 가능
+permalink: /:basename:output_ext
