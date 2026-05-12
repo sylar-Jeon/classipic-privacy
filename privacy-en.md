@@ -1,7 +1,7 @@
 # Privacy Policy (ClassiPic)
 
 **Effective date: May 6, 2026**
-**Last updated: May 6, 2026**
+**Last updated: May 12, 2026**
 
 ClassiPic ("the App") respects your privacy. This policy explains what information the App accesses, how it is used, and what rights you have. The App is operated by an individual developer based in the Republic of Korea.
 
@@ -30,6 +30,7 @@ The App analyzes your photos and metadata **entirely on your device**. Your phot
 | Photo location metadata (EXIF GPS) | Location-based classification | Local device only |
 | App preferences (UserDefaults) | Settings, locked-album IDs, classification preferences | Local device only |
 | StoreKit receipts | Lifetime purchase verification | Apple StoreKit |
+| Reverse-geocoding coordinates (CLGeocoder) | Location-based auto-naming (e.g. "Gangnam-gu, Yeoksam-dong"): the photo's GPS coordinates are sent to Apple's servers to be resolved to a textual address | Only the resolved address text is cached on device (90 days). The operator stores neither the coordinates nor the resolved address. |
 
 ### 3.2 Information used for ads / measurement (free tier only)
 The App shows ads from Google AdMob to free-tier users. The following may be transmitted to Google during ad delivery:
@@ -46,7 +47,7 @@ The App does not collect:
 - Account credentials, email, name, or phone number
 - Contacts, calendar, or health data
 - Your photos or classification results (no server storage)
-- Precise location for transmission
+- Transmission of location data to the operator's servers or to advertising third parties (note: coordinates may be sent to Apple's CLGeocoder service for location-based naming — see section 3.1)
 
 ## 4. Retention and Deletion
 
@@ -70,6 +71,7 @@ The App is not directed at children under 13 (or 14 in Korea), and we do not kno
 |---|---|---|
 | Google LLC (AdMob) | Ad delivery (free tier) | IDFA (if allowed), IP, device info, ad events |
 | Apple Inc. (StoreKit) | In-app purchase processing | Apple-ID-scoped purchase receipts |
+| Apple Inc. (CLGeocoder) | Reverse geocoding for location-based auto-naming | GPS coordinates from photo EXIF |
 
 We do not sell or share your information beyond the entries above.
 
